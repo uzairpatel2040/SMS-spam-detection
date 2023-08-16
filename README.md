@@ -28,5 +28,4 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 
 Thank you for your interest!
 
-\---
-*Note: This README is a representation created based on the provided information.*
+
